@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sukonratpro.github.io/static/css/main.2d761e9b.chunk.css",
+    "main.js": "/sukonratpro.github.io/static/js/main.6784012e.chunk.js",
+    "main.js.map": "/sukonratpro.github.io/static/js/main.6784012e.chunk.js.map",
+    "runtime-main.js": "/sukonratpro.github.io/static/js/runtime-main.23f872d5.js",
+    "runtime-main.js.map": "/sukonratpro.github.io/static/js/runtime-main.23f872d5.js.map",
+    "static/js/2.4a1ff73a.chunk.js": "/sukonratpro.github.io/static/js/2.4a1ff73a.chunk.js",
+    "static/js/2.4a1ff73a.chunk.js.map": "/sukonratpro.github.io/static/js/2.4a1ff73a.chunk.js.map",
+    "static/js/3.2a3556aa.chunk.js": "/sukonratpro.github.io/static/js/3.2a3556aa.chunk.js",
+    "static/js/3.2a3556aa.chunk.js.map": "/sukonratpro.github.io/static/js/3.2a3556aa.chunk.js.map",
+    "index.html": "/sukonratpro.github.io/index.html",
+    "static/css/main.2d761e9b.chunk.css.map": "/sukonratpro.github.io/static/css/main.2d761e9b.chunk.css.map",
+    "static/js/2.4a1ff73a.chunk.js.LICENSE.txt": "/sukonratpro.github.io/static/js/2.4a1ff73a.chunk.js.LICENSE.txt",
+    "static/media/cat.5b6869af.png": "/sukonratpro.github.io/static/media/cat.5b6869af.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23f872d5.js",
+    "static/js/2.4a1ff73a.chunk.js",
+    "static/css/main.2d761e9b.chunk.css",
+    "static/js/main.6784012e.chunk.js"
+  ]
+}
